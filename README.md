@@ -1,4 +1,4 @@
 # React Animation Resources
 
 ## Background Animation:
-- (vantajs)(https://www.vantajs.com/)
+- [Vantajs](https://www.vantajs.com/)
